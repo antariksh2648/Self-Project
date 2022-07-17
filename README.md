@@ -28,4 +28,22 @@ Dataset for this project is taken from the California census. The data includes 
 ### Modelling-
 
 First we modified our dataset, collected the information, and deleting NULL values. Then we described the dataset, plotted histograms for each numerical attribute, histograms of median income, visualized the data in terms of longitude and latitude using scatter plot, and also plotted scatter matrix to find correlations between different attributes. We fit our dataset into various regression models namely LinearRegression, DecisionTreeRegressor and RandomForestRegressor and compared the accuracy score for all the models to get the best fit model for our dataset. The best model came out to be DecisionTreeRegressor model.
+ 
+## Future sales prediction
+
+### Introduction-
+
+Predicting the future sales of a product helps a business manage the manufacturing and advertising cost of the product.
+
+### Dataset-
+
+The dataset is about the advertising cost incurred by the business on various advertising platforms. The dataset includes features such as TV, Radio, Newspaper which contains advertising cost spent in dollars for advertising them and Sales for number of units sold.
+
+### Modelling-
+
+Modified the dataset by removing NULL values. isualized the dataset by comparing scatter plot for money spent on TV, Radio and newspaper ads. We also compared graphs for Sales vs Newspaper, Sales vs Radio, etc. Then we split tha dataset into training set and test set and performed RandomForestRegression to find the accuracy of the model.
+
+## Contribuition-
+1. Antariksh Choudhary
+2. Jaya Meena
 
