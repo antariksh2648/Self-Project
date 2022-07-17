@@ -41,7 +41,7 @@ The dataset is about the advertising cost incurred by the business on various ad
 
 ### Modelling-
 
-Modified the dataset by removing NULL values. isualized the dataset by comparing scatter plot for money spent on TV, Radio and newspaper ads. We also compared graphs for Sales vs Newspaper, Sales vs Radio, etc. Then we split tha dataset into training set and test set and performed RandomForestRegression to find the accuracy of the model.
+Modified the dataset by removing NULL values. isualized the dataset by comparing scatter plot for money spent on TV, Radio and newspaper ads. We also compared graphs for Sales vs Newspaper, Sales vs Radio, etc. Then we split tha dataset into training set and test set and performed RandomForestRegression to predict the output for test data.
 
 ## Contribuition-
 1. Antariksh Choudhary
